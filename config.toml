@@ -8,7 +8,7 @@ theme = "hugo-octopress"
 paginate = 6
 
 pygmentsuseclasses = false
-pygmentsstyle = "monokai"
+pygmentsstyle = "fruity"
 
 # you need to install Solarized from https://github.com/john2x/solarized-pygment.git
 # Octopress blog used Solarized_dark
@@ -21,7 +21,7 @@ pygmentscodefences = true
 #pygmentsoptions = "linenos=true"
 
 [permalinks]
-post = "/:year/:month/:title/" # change the post URL to look like the old ones
+post = "/:title/" # change the post URL to look like the old ones
 
 
 [indexes]
