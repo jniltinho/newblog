@@ -1,5 +1,5 @@
 # Create your Blog with Hugo Golang
-https://www.youtube.com/c/LinuxPro-Screencast
+[Youtube Channel LinuxPro](https://www.youtube.com/c/LinuxPro-Screencast)
 
 
 
@@ -31,5 +31,5 @@ hugo server --buildDrafts
 - https://github.com/spf13/hugo/releases
 - https://github.com/spf13/hugo
 - [hugo-a-static-site-generator](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04)
-- www.linuxpro.com.br
-- blog.linuxpro.com.br
+- [Site LinuxPro](www.linuxpro.com.br)
+- [Old Blog LinuxPro](http://blog.linuxpro.com.br)
