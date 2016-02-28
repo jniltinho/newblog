@@ -1,5 +1,5 @@
-# newblog
-New Blog LinuxPro with Hugo Golang
+# Create your Blog with Hugo Golang
+www.linuxpro.com.br | blog.linuxpro.com.br
 
 
 
