@@ -1,5 +1,5 @@
 # Create your Blog with Hugo Golang
-www.linuxpro.com.br | blog.linuxpro.com.br
+https://www.youtube.com/c/LinuxPro-Screencast
 
 
 
@@ -23,3 +23,13 @@ cd newblog
 hugo server --buildDrafts
 # Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 ```
+
+
+# Links
+- https://gohugo.io/overview/installing/
+- https://gohugo.io/overview/quickstart/
+- https://github.com/spf13/hugo/releases
+- https://github.com/spf13/hugo
+- [hugo-a-static-site-generator](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04)
+- www.linuxpro.com.br
+- blog.linuxpro.com.br
